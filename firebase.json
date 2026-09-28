@@ -1,1 +1,1 @@
-{ "hosting": { "public": ".", "ignore": ["firebase.json", "**/.*"] } }
+{ "hosting": { "site": "lite-gestarian", "public": ".", "ignore": ["firebase.json", "**/.*", "**/node_modules/**"] } }
